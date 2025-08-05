@@ -38,4 +38,7 @@ Com base nas variáveis mais influentes:
 
 ▶️ Como Executar
 1. Abra o notebook no Google Colab
+2- execute as bibliotecas:
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+
 
